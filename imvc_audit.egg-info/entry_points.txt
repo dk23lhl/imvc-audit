@@ -1,0 +1,2 @@
+[console_scripts]
+imvc-audit = imvc_audit.cli:main
