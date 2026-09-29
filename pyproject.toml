@@ -9,7 +9,13 @@ description = "Audit toolkit for IMVC missing-data evaluation protocols: effecti
 readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
-authors = [{name = "Anonymous"}]
+authors = [
+    {name = "Haolu Liu"},
+    {name = "Xiyue Wang"},
+    {name = "Xuanting Xie"},
+    {name = "Liangjian Wen"},
+    {name = "Zhao Kang"},
+]
 dependencies = ["numpy>=1.20"]
 
 [project.scripts]
